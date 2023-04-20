@@ -1,6 +1,5 @@
 # Tic tac toe
 The easiest Tic tac toe game on python
-Language: EN
 
 #Игра крестики-нолики v1.0
 Самая простая и банальная игра в крестики нолики, написанная на python.
